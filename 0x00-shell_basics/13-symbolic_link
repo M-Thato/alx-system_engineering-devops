@@ -1,0 +1,2 @@
+#!/bin/bash
+eval "ln -s /bin/ls _ls_"
