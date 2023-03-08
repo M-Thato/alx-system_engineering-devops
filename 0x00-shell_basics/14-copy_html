@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "cp -u -n *html /alx-system_engineering-devops"
+eval "cp -u -n -v *html /alx-system_engineering-devops"
