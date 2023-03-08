@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "ln -s /bin/ls _ls_"
+eval "mklink _ls_ /bin/ls"
