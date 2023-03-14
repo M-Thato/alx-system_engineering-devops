@@ -1,2 +1,2 @@
 #!/bin/bash
-dirs=(*/); for d in "${dirs[@]}"; do sub=("$d"*/); echo "${#sub[@]}"; done
+ls -lRa . | grep -c ^d
